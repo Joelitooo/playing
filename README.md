@@ -19,3 +19,7 @@ Run `npx nx connect-to-nx-cloud` to enable [remote caching](https://nx.app) and 
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+## Add a New Component 
+
+Run `npx nx g @nrwl/react:component button`
